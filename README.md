@@ -1,6 +1,6 @@
-# gitlab-gen
+# license-gen
 
-gitlab-gen helps you generate, verify and enforce software licenses. It is used in GitLab Enterprise Edition.
+license-gen helps you generate, verify and enforce gitlab licenses. It is used in GitLab Enterprise Edition.
 
 ## Installation
 
